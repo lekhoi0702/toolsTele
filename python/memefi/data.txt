@@ -1,0 +1,1 @@
+query_id=AAHpc0U8AgAAAOlzRTxfxFVt&user=%7B%22id%22%3A5306151913%2C%22first_name%22%3A%22poltak%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoiclone1%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727416404&hash=7eb0937df23374dabee9313c946a0ca23bfb9bafac5a9eece473182ef12a72b9
