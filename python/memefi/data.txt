@@ -1,1 +1,0 @@
-query_id=AAHKPndLAwAAAMo-d0vi3GIJ&user=%7B%22id%22%3A7708557002%2C%22first_name%22%3A%22Thao%20Bui%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoidoemoi%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727421060&hash=8888282ca3455d05085e887323dd2fd729ff1d551ee0a379554683b6d919ed31

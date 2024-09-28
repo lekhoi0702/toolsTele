@@ -1,1 +1,0 @@
-query_id=AAHMyfdYAwAAAMzJ91j4CaVr&user=%7B%22id%22%3A7935085004%2C%22first_name%22%3A%22Dinh%20Vu%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoineanhem%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727283831&hash=cebb48eb36550129747c4991f30e768ecd2916ab368dc636cb741fd989f4e4c4
