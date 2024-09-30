@@ -53,7 +53,6 @@ def load_credentials():
 
 import datetime
 import pytz
-
 def check_worm():
     response = requests.get('https://elb.seeddao.org/api/v1/worms', headers=headers)
     if response.status_code == 200:
@@ -219,6 +218,11 @@ def complete_task(task_id,task_name):
 
 
 def main():
+    
+    print("========================================")
+    print("=         SEED    -  Zero2hero         =")
+    print("=       Channel : t.me/@zero2hero100x  =")
+    print("========================================")
     tokens = load_credentials()
     
     confirm_storage = input("Tự động nâng cấp storage? (y/n): ")

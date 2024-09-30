@@ -207,6 +207,10 @@ def complete_task(task_id, task_name, proxy):
         print(f"{Fore.RED+Style.BRIGHT}[ Tasks ]: Không thể hoàn thành nhiệm vụ {task_name}, mã trạng thái: {response.status_code}")
 
 def main():
+    print("========================================")
+    print("=         SEED    -  Zero2hero         =")
+    print("=       Channel : t.me/@zero2hero100x  =")
+    print("========================================")
     tokens = load_credentials()
     proxies = load_proxies()
 
