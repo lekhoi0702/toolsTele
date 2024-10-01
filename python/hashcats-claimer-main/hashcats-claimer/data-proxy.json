@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "acc_info": "query_id=AAEizoNGAgAAACLOg0YB6v9n&user=%7B%22id%22%3A5478010402%2C%22first_name%22%3A%22H%E1%BB%A3pT%C3%A1cX%C3%A3%F0%9F%92%8ECR%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%F0%9F%9F%A5%22%2C%22username%22%3A%22tadale01%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727761388&hash=b43971577147045f596420146625eea8f6663731e50655fa813f5884a5b48876",
+      "proxy_info": "http://26mdrandom1:random1@116.97.14.104:37432"
+    },
+    {
+      "acc_info": "query_id=AAHpc0U8AgAAAOlzRTyLBh9Q&user=%7B%22id%22%3A5306151913%2C%22first_name%22%3A%22poltak%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoiclone1%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727761363&hash=a16c3a7f7edac20f9cef4ab258c52b450010d4d280bb4906a8ddadc71faaf429",
+      "proxy_info": "http://shopp5k269:Aka1aEz9yjr8NUm2ani@166.88.238.133:6113"
+    },
+    {
+      "acc_info": "query_id=AAHX-kQ0AwAAANf6RDQZBr3B&user=%7B%22id%22%3A7319386839%2C%22first_name%22%3A%22Jenn%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22acckhoine01%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727761431&hash=255ad6a765a17da1fa51d1ca8635653f21daa0c41eabd88e39d51af95617de69",
+      "proxy_info": "http://shopp5k269:Aka1aEz9yjr8NUm2ani@166.88.238.133:6113"
+    },
+    {
+      "acc_info": "query_id=AAHMyfdYAwAAAMzJ91j_HGFJ&user=%7B%22id%22%3A7935085004%2C%22first_name%22%3A%22Dinh%20Vu%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoineanhem%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727761437&hash=63d72353813215b0d67066bc47a42e2409e4e72f1af07a55bd37a604552de820",
+      "proxy_info": "http://fh46u7s:sdf9854@103.179.184.236:2747"
+    },
+    {
+      "acc_info": "query_id=AAHKPndLAwAAAMo-d0sUbAP0&user=%7B%22id%22%3A7708557002%2C%22first_name%22%3A%22Thao%20Bui%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoidoemoi%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727761442&hash=e678f2438da1f15bfeb169e440ee6f1b90d960ce54dd6977eab704937d424116",
+      "proxy_info": "http://fh46u7s:sdf9854@103.179.184.236:2747"
+    },
+    {
+      "acc_info": "query_id=AAHJvL8vAwAAAMm8vy-NPseI&user=%7B%22id%22%3A7243545801%2C%22first_name%22%3A%22Tai%20Hoang%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727761446&hash=8cbfc7bef7815e05d29c1640f83413406a780256309df61a462547c7cfe099e3",
+      "proxy_info": "http://fh46u7s:sdf9854@103.179.184.236:2747"
+    }
+  ]
+}
