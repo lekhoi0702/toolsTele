@@ -1,27 +1,9 @@
 {
   "accounts": [
     {
-      "acc_info": "user=%7B%22id%22%3A5478010402%2C%22first_name%22%3A%22H%E1%BB%A3pT%C3%A1cX%C3%A3%F0%9F%92%8ECR%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%F0%9F%9F%A5%22%2C%22username%22%3A%22tadale01%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-308348194491060614&start_param=5478010402&auth_date=1727762486&hash=0b1699488f47c3296eb964a5a87db07c46c07f4e69ab171525ef393120910e27",
+      "acc_info": "query_id=AAEizoNGAgAAACLOg0ZH_Dws&user=%7B%22id%22%3A5478010402%2C%22first_name%22%3A%22H%E1%BB%A3pT%C3%A1cX%C3%A3%F0%9F%92%8ECR%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%F0%9F%9F%A5%22%2C%22username%22%3A%22tadale01%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727951076&hash=cada90373e8a46db474b02c1014728cddedf5e39955831b8860b4559dce6e598",
       "proxy_info": "http://26mdrandom1:random1@116.97.14.104:37432"
-    },
-    {
-      "acc_info": "user=%7B%22id%22%3A5306151913%2C%22first_name%22%3A%22poltak%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoiclone1%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=7950778093526460497&start_param=5478010402&auth_date=1727762488&hash=035d9900fd4529048679554d2a504f74ac18a8eb82801acf3246405304bf1bf9",
-      "proxy_info": "http://shopp5k269:Aka1aEz9yjr8NUm2ani@166.88.238.133:6113"
-    }, {
-      "acc_info": "user=%7B%22id%22%3A7319386839%2C%22first_name%22%3A%22Jenn%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22acckhoine01%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=4748369400661341332&start_param=5478010402&auth_date=1727762490&hash=46f25f9ab339bac1c36a83dfa63607fda820d6806d99056dc6a19745d9d3b4e4",
-      "proxy_info": "http://shopp5k269:Aka1aEz9yjr8NUm2ani@166.88.238.133:6113"
-    },
-    {
-      "acc_info": "user=%7B%22id%22%3A7935085004%2C%22first_name%22%3A%22Dinh%20Vu%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoineanhem%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=1541192797912760477&start_param=5478010402&auth_date=1727762491&hash=1300ee6b6f311e2328562f09d4a25012cd0645d86eb0bd37f16923eaa9701701",
-      "proxy_info": "http://fh46u7s:sdf9854@103.179.184.236:2747"
-    },
-    {
-      "acc_info": "user=%7B%22id%22%3A7708557002%2C%22first_name%22%3A%22Thao%20Bui%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22khoidoemoi%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=5480659729250452218&start_param=5478010402&auth_date=1727762493&hash=18264dc98560b13c49e8d15122d5cab9e43335f8f2a14ebb927a2f0f14b52ce4",
-      "proxy_info": "http://fh46u7s:sdf9854@103.179.184.236:2747"
-    },
-    {
-      "acc_info": "user=%7B%22id%22%3A7243545801%2C%22first_name%22%3A%22Tai%20Hoang%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%7D&chat_instance=-2818294894563970463&chat_type=sender&start_param=5478010402&auth_date=1727762495&hash=76025ec3cee56852eb9da2f46329adfef5c2a37493bbaecce8c8312677dfdc59",
-      "proxy_info": "http://fh46u7s:sdf9854@103.179.184.236:2747"
     }
+   
   ]
 }

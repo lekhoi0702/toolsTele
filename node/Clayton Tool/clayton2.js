@@ -5,7 +5,7 @@ const colors = require('colors');
 const { DateTime } = require('luxon');
 const { HttpsProxyAgent } = require('https-proxy-agent');
 
-const maxThreads = 10; // số luồng
+const maxThreads = 1; // số luồng
 
 class Clayton {
     constructor(accountIndex, proxy, initData) {
@@ -87,7 +87,7 @@ class Clayton {
     }
 
     async login() {
-        return this.makeRequest("https://tonclayton.fun/api/user/login", 'post');
+        return this.makeRequest("https://tonclayton.fun/api/user/auth", 'post');
     }
 
     async dailyClaim() {
